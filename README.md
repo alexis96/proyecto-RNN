@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Red neuronal recurrente
 
-You can use the [editor on GitHub](https://github.com/alexis96/proyecto-RNN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aqui mostraremos un poco de lo que es una red neuronal recurrente asi como unas aplicaciones
+con algunos documentos creados.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Que es una RNN?
 
-### Markdown
+Las redes neuronales recurrentes completamente conectadas tienen caminos de retro alimentacion
+entre todos los elementos que la conforman. Una sola neurona esta entonces conectada a las 
+neuronas posteriores en la siguiente capa, las neuronas pasadas de la capa anterior y a ella
+misma a traves de vectores de pesos variables que sufren alteraciones en cada epoch.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+La mayoria de las aplicaciones de este tipo de red son la identificacion y clasificacion de patrones
+secuenciales con distintas posibilidades de ocurrir a traves del tiempo, por ejemplo para traducciones
+generacion de texto como en nuestro caso o en donde usemos datos en secuencia en donde el orden tenga
+importancia
 
-```markdown
-Syntax highlighted code block
+### Simple red recurrente
 
-# Header 1
-## Header 2
-### Header 3
+Para la creacion de esta red recurrente simple usamos un codigo hecho todo en numpy obtenido de [aqui](https://gist.github.com/karpathy/d4dee566867f8291f086)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexis96/proyecto-RNN/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
