@@ -21,6 +21,20 @@ Para la creacion de esta red recurrente simple usamos un codigo hecho todo en nu
 La cual modificamos para nuesto uso y hacer la generacion de municipios creada en un libreta
 la cual esta ubicada en el repositorio. [Libreta](codigos/simple-RNN.ipynb)
 
+### Nombres generados
 
+1. Iteracion 800
+* Simulacuipas
+* Sanamo
+* Sanéchilospo
 
+2. Iteracion 300,000+
+* Amamúlón
+* Atamelcuba
+* Chilpab
+* Coatlán de Zuininal
+* Caltiza
+
+dado la construccion del archivo usado como los datos estan ordenados alfabeticamente
+la generacion suele tambien ser en ese orden.
 
