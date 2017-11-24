@@ -17,7 +17,10 @@ importancia
 
 ### Simple red recurrente
 
-Para la creacion de esta red recurrente simple usamos un codigo hecho todo en numpy obtenido de [aqui](https://gist.github.com/karpathy/d4dee566867f8291f086)
+Para la creacion de esta red recurrente simple usamos un codigo hecho todo en numpy obtenido de [aqui](https://gist.github.com/karpathy/d4dee566867f8291f086).
+La cual modificamos para nuesto uso y hacer la generacion de municipios creada en un libreta
+la cual esta ubicada en el repositorio. [Libreta](codigos/simple-RNN.ipynb)
+
 
 
 
