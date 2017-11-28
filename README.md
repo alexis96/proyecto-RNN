@@ -65,12 +65,11 @@ entre nosotros el plano de la eclositación etapa en que la luciencia
 
 3. Palabra inicial "señores"
 * Sentencia:
-```xml
 señores de la vida como razón de la plaza de sangrese favor de la integridad en el servicio público y el combate a la corrupción.
 se queó el gobierno ha querido subrayar hoy la armonía constitucional en que las inicias nuestra democracia, 
 de la globalidad y del conocimiento. tenemos todo. tenemos el gran potencial para que cada mexicano escriba 
 su propia historia de éxito. la correalidad de la falta de empleo, que no se otraín someterla afirarse para el desgreño, 
 ausente de seriemos de corrupción
-```
+
 
 ### Aun no subo el codigo falta comentarlo
