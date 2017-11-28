@@ -38,3 +38,38 @@ la cual esta ubicada en el repositorio. [Libreta](codigos/simple-RNN.ipynb)
 dado la construccion del archivo usado como los datos estan ordenados alfabeticamente
 la generacion suele tambien ser en ese orden.
 
+### Red Recurrente LSTM
+
+Para los siguientes resultados usamos una red LSTM (Long short term memory) para generar textos.
+Esta red esta hecha usando tensorflow y obtenida de [Aqui](https://github.com/spiglerg/RNN_Text_Generation_Tensorflow) la cual tambien 
+modificamos para nuestro caso. Usamos para el aprendizaje de la red algunos discursos politicos de mexico y alguno de otro pais hispanohablante.
+
+### Generacion de discursos politicos
+
+
+Palabra inicial "el"
+Sentencia:
+el mundo por su invaluable apoyo para todos los puestos son los cuerdas por derechos sobre el pueblo como. 
+pero támico, permita que sibe de tuvio a nuestros coraciones de nuestro pasado y las proporciones de nuestro tiempo.
+la historia ha de ser liberos metilitares, más importando 31 de esos igualios de progreso y 
+bandándos y estaba en todo su libertad. y en la que más derecho, de las insuficiencias, 
+la realización son sustituidas por el fatigante método de las promesas, condena es nuestro partido;
+
+Palabra inicial "viva"
+Sentencia:
+viva por la libertad, que salvó a su asperar más que lo lo que piensa, o no se atreve a decir lo que piensa, no es un hombre honrado. 
+un hombre de trabajo que confía más libertades, a mutilar nuestra dignidad y a truncar nuestro 
+porvenir como pueblo ni fue en el orden en la habana, por la coutadiona de poder y el golpe consemano, 
+que en méxico para todas las revoluciones llevan dentro de sí el germen de su propia síntesis. 
+entre nosotros el plano de la eclositación etapa en que la luciencia
+
+Palabra inicial "señores"
+Sentencia:
+señores de la vida como razón de la plaza de sangrese favor de la integridad en el servicio público y el combate a la corrupción.
+se queó el gobierno ha querido subrayar hoy la armonía constitucional en que las inicias nuestra democracia, 
+de la globalidad y del conocimiento. tenemos todo. tenemos el gran potencial para que cada mexicano escriba 
+su propia historia de éxito. la correalidad de la falta de empleo, que no se otraín someterla afirarse para el desgreño, 
+ausente de seriemos de corrupción
+
+
+### Aun no subo el codigo falta comentarlo
