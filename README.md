@@ -50,7 +50,7 @@ un poco diferente a la normal.
 
 Para los siguientes resultados usamos una red LSTM (Long short term memory) para generar textos.
 Esta red esta hecha usando tensorflow y obtenida de [Aqui](https://github.com/spiglerg/RNN_Text_Generation_Tensorflow) la cual tambien 
-modificamos para nuestro caso. Usamos para el aprendizaje de la red algunos discursos politicos de mexico y alguno de otro pais hispanohablante.
+modificamos para nuestro caso en la que usamos dos capaz lstm de 256 neuronas cada una y una capa de salida softmax completamente conectada del mismo tamaño que la de entrada.Codigo [Aqui](codigos/lstmTensorflow.py) Usamos para el aprendizaje de la red algunos discursos politicos de mexico y alguno de otro pais hispanohablante.
 
 ### Generacion de discursos politicos
 
