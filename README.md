@@ -21,7 +21,7 @@ importancia
 
 Para la creacion de esta red recurrente simple usamos un codigo hecho todo en numpy obtenido de [aqui](https://gist.github.com/karpathy/d4dee566867f8291f086).
 La cual modificamos para nuesto uso y hacer la generacion de municipios creada en un libreta
-la cual esta ubicada en el repositorio. [Libreta](codigos/simple-RNN.ipynb)
+la cual esta ubicada en el repositorio. [Libreta](https://github.com/alexis96/proyecto-RNN/blob/master/codigos/simple-RNN.ipynb)
 
 ### Nombres generados
 
@@ -50,7 +50,7 @@ un poco diferente a la normal.
 
 Para los siguientes resultados usamos una red LSTM (Long short term memory) para generar textos.
 Esta red esta hecha usando tensorflow y obtenida de [Aqui](https://github.com/spiglerg/RNN_Text_Generation_Tensorflow) la cual tambien 
-modificamos para nuestro caso en la que usamos dos capaz lstm de 256 neuronas cada una y una capa de salida softmax completamente conectada del mismo tamaño que la de entrada.Codigo [Aqui](codigos/lstmTensorflow.py) Usamos para el aprendizaje de la red algunos discursos politicos de mexico y alguno de otro pais hispanohablante.
+modificamos para nuestro caso en la que usamos dos capaz lstm de 256 neuronas cada una y una capa de salida softmax completamente conectada del mismo tamaño que la de entrada.Codigo [Aqui](https://github.com/alexis96/proyecto-RNN/blob/master/codigos/lstmTensorflow.py) Usamos para el aprendizaje de la red algunos discursos politicos de mexico y alguno de otro pais hispanohablante.
 
 ### Generacion de discursos politicos
 
