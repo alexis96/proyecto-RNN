@@ -5,7 +5,7 @@ Created on Mon Nov 27 19:54:49 2017
 @author: alexi
 """
 """
-Text generation using a Recurrent Neural Network (LSTM).
+Generacion de textos usando una Red Neuronal Recurrente (LSTM).
 """
 
 
