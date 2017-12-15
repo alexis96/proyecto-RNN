@@ -9,6 +9,7 @@ Las redes neuronales recurrentes completamente conectadas tienen caminos de retr
 entre todos los elementos que la conforman. Una sola neurona esta entonces conectada a las 
 neuronas posteriores en la siguiente capa, las neuronas pasadas de la capa anterior y a ella
 misma a traves de vectores de pesos variables que sufren alteraciones en cada epoch.
+![RNN](codigos/RNN-unrolled.png)
 
 La mayoria de las aplicaciones de este tipo de red son la identificacion y clasificacion de patrones
 secuenciales con distintas posibilidades de ocurrir a traves del tiempo, por ejemplo para traducciones
