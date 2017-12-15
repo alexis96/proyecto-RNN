@@ -8,7 +8,8 @@ con algunos documentos creados.
 Las redes neuronales recurrentes completamente conectadas tienen caminos de retro alimentacion
 entre todos los elementos que la conforman. Una sola neurona esta entonces conectada a las 
 neuronas posteriores en la siguiente capa, las neuronas pasadas de la capa anterior y a ella
-misma a traves de vectores de pesos variables que sufren alteraciones en cada epoch.
+misma a traves de vectores de pesos variables que sufren alteraciones en cada epoch.  
+  
 ![RNN](codigos/RNN-unrolled.png)
 
 La mayoria de las aplicaciones de este tipo de red son la identificacion y clasificacion de patrones
@@ -40,6 +41,10 @@ dado la construccion del archivo usado como los datos estan ordenados alfabetica
 la generacion suele tambien ser en ese orden.
 
 ### Red Recurrente LSTM
+
+Las redes LSTM(Long-Short-Term-Memory) es un tipo de red recurrente capaz de aprender dependencias
+a largo plazo, practicamente recuerda informacion por largos periodos de tiempo. con una construccion interna
+un poco diferente a la normal.
 
 Para los siguientes resultados usamos una red LSTM (Long short term memory) para generar textos.
 Esta red esta hecha usando tensorflow y obtenida de [Aqui](https://github.com/spiglerg/RNN_Text_Generation_Tensorflow) la cual tambien 
