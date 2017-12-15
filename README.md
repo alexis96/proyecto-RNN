@@ -46,7 +46,7 @@ Las redes LSTM(Long-Short-Term-Memory) es un tipo de red recurrente capaz de apr
 a largo plazo, practicamente recuerda informacion por largos periodos de tiempo. con una construccion interna
 un poco diferente a la normal.
 
-![RNN](codigos/LSTM3--chain.png)
+![RNN2](codigos/LSTM3--chain.png)
 
 Para los siguientes resultados usamos una red LSTM (Long short term memory) para generar textos.
 Esta red esta hecha usando tensorflow y obtenida de [Aqui](https://github.com/spiglerg/RNN_Text_Generation_Tensorflow) la cual tambien 
