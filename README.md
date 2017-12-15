@@ -79,5 +79,3 @@ de la globalidad y del conocimiento. tenemos todo. tenemos el gran potencial par
 su propia historia de éxito. la correalidad de la falta de empleo, que no se otraín someterla afirarse para el desgreño, 
 ausente de seriemos de corrupción
 
-
-### Aun no subo el codigo falta comentarlo
